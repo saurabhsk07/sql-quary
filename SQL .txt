@@ -1,0 +1,2 @@
+SQL: SQL stand for structure quary language
+SQL we can access the multiple the data  from database.
